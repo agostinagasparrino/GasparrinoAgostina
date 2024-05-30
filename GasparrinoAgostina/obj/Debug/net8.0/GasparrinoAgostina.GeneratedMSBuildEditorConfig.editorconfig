@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GasparrinoAgostina
+build_property.RootNamespace = GasparrinoAgostina
+build_property.ProjectDir = C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/Barcos/Listado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyY29zXExpc3RhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/Barcos/Registrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyY29zXFJlZ2lzdHJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/Inicio/Bienvenida.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEJpZW52ZW5pZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/Inicio/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/Shared/_HeaderLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Agostina/source/repos/GasparrinoAgostina/GasparrinoAgostina/Views/Shared/_AduanaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZHVhbmFMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v2430q3nj6

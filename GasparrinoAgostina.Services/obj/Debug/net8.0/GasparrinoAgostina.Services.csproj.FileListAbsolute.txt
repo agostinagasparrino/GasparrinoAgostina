@@ -1,0 +1,15 @@
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\bin\Debug\net8.0\GasparrinoAgostina.Services.deps.json
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\bin\Debug\net8.0\GasparrinoAgostina.Services.dll
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\bin\Debug\net8.0\GasparrinoAgostina.Services.pdb
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\bin\Debug\net8.0\GasparrinoAgostina.Entidades.dll
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\bin\Debug\net8.0\GasparrinoAgostina.Entidades.pdb
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\GasparrinoAgostina.Services.csproj.AssemblyReference.cache
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\GasparrinoAgostina.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\GasparrinoAgostina.Services.AssemblyInfoInputs.cache
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\GasparrinoAgostina.Services.AssemblyInfo.cs
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\GasparrinoAgostina.Services.csproj.CoreCompileInputs.cache
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\Gasparri.E1F27C35.Up2Date
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\GasparrinoAgostina.Services.dll
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\refint\GasparrinoAgostina.Services.dll
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\GasparrinoAgostina.Services.pdb
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Services\obj\Debug\net8.0\ref\GasparrinoAgostina.Services.dll

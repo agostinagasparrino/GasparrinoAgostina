@@ -1,0 +1,11 @@
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\bin\Debug\net8.0\GasparrinoAgostina.Entidades.deps.json
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\bin\Debug\net8.0\GasparrinoAgostina.Entidades.dll
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\bin\Debug\net8.0\GasparrinoAgostina.Entidades.pdb
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\obj\Debug\net8.0\GasparrinoAgostina.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\obj\Debug\net8.0\GasparrinoAgostina.Entidades.AssemblyInfoInputs.cache
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\obj\Debug\net8.0\GasparrinoAgostina.Entidades.AssemblyInfo.cs
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\obj\Debug\net8.0\GasparrinoAgostina.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\obj\Debug\net8.0\GasparrinoAgostina.Entidades.dll
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\obj\Debug\net8.0\refint\GasparrinoAgostina.Entidades.dll
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\obj\Debug\net8.0\GasparrinoAgostina.Entidades.pdb
+C:\Users\Agostina\source\repos\GasparrinoAgostina\GasparrinoAgostina.Entidades\obj\Debug\net8.0\ref\GasparrinoAgostina.Entidades.dll

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<GasparrinoAgostina.Models.BarcoModel>
+@{
+    ViewData["Title"] = "Listado";
+}
+
+<h2>Listado</h2>
+<table class="table-bordered rounded-pill table">
+    <thead>
+        <tr>
+            <th border="1" class="bg-success">Id Barco</th>
+            <th border="1" class="bg-primary">Nombre</th>
+            <th border="1" class="bg-secondary">Antigüedad</th>
+            <th border="1" class="bg-warning">Tripulación</th>
+            <th border="1" class="bg-danger">Tasa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var resultado in Model)
+        {
+            <tr>
+                <td>@resultado.IdBarco</td>
+                <td>@resultado.Nombre</td>
+                <td>@resultado.Antiguedad</td>
+                <td>@resultado.TripulacionMaxima</td>
+                <td>@resultado.Tasa</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+    <div class="mt-2 d-flex justify-content-end container">
+    <button type="button" id="myButton" class="btn btn-primary">Registrar nuevo barco</button>
+    </div>
+
+    <a asp-controller="Barcos" asp-action="Registrar" id="myLink" style="display: none;"></a>
+
+
+    <script>
+        document.getElementById('myButton').addEventListener('click', function () {
+            document.getElementById('myLink').click();
+        });
+    </script>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GasparrinoAgostina.Services/1.0.0": {
+        "dependencies": {
+          "GasparrinoAgostina.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "GasparrinoAgostina.Services.dll": {}
+        }
+      },
+      "GasparrinoAgostina.Entidades/1.0.0": {
+        "runtime": {
+          "GasparrinoAgostina.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GasparrinoAgostina.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GasparrinoAgostina.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

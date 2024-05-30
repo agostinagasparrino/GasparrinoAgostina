@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GasparrinoAgostina.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GasparrinoAgostina.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GasparrinoAgostina.Entidades.dll": {}
+        }
+      },
+      "GasparrinoAgostina.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "GasparrinoAgostina.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GasparrinoAgostina.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GasparrinoAgostina.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GasparrinoAgostina.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../GasparrinoAgostina.Entidades/GasparrinoAgostina.Entidades.csproj",
+      "msbuildProject": "../GasparrinoAgostina.Entidades/GasparrinoAgostina.Entidades.csproj"
+    },
+    "GasparrinoAgostina.Services/1.0.0": {
+      "type": "project",
+      "path": "../GasparrinoAgostina.Services/GasparrinoAgostina.Services.csproj",
+      "msbuildProject": "../GasparrinoAgostina.Services/GasparrinoAgostina.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GasparrinoAgostina.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Agostina\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\GasparrinoAgostina.csproj",
+      "projectName": "GasparrinoAgostina",
+      "projectPath": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\GasparrinoAgostina.csproj",
+      "packagesPath": "C:\\Users\\Agostina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Agostina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina.Services\\GasparrinoAgostina.Services.csproj": {
+              "projectPath": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina.Services\\GasparrinoAgostina.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+﻿@model GasparrinoAgostina.Models.BarcoModel
+@{
+    ViewData["Title"] = "Registrar barco";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Registrar barco</h1>
+</div>
+
+<div>
+    <form action="RegistrarBarco" method="post" class="mt-2 mx-auto">
+        @Html.AntiForgeryToken()
+        <div class="d-flex justify-content-center">
+            @Html.LabelFor(model => model.Nombre, new { @class = "col-2" })
+            @Html.TextBoxFor(model => model.Nombre, new { @class = "col-2", type = "text" })
+            @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+        </div>
+        <div class="d-flex justify-content-center">
+            @Html.LabelFor(model => model.Antiguedad, new { @class = "col-2" })
+            @Html.TextBoxFor(model => model.Antiguedad, new { @class = "col-2", type = "number" })
+            @Html.ValidationMessageFor(model => model.Antiguedad, "", new { @class = "text-danger" })
+        </div>
+        <div class="d-flex justify-content-center">
+            @Html.LabelFor(model => model.TripulacionMaxima, new { @class = "col-2" })
+            @Html.TextBoxFor(model => model.TripulacionMaxima, new { @class = "col-2", type = "number" })
+            @Html.ValidationMessageFor(model => model.TripulacionMaxima, "", new { @class = "text-danger" })
+        </div>
+        <div class="mt-2 text-center">
+            <button type="submit" class="btn btn-secondary">Registrar</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

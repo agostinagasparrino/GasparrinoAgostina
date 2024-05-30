@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|c:\\users\\agostina\\source\\repos\\gasparrinoagostina\\gasparrinoagostina\\views\\shared\\_headerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|solutionrelative:gasparrinoagostina\\views\\shared\\_headerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|c:\\users\\agostina\\source\\repos\\gasparrinoagostina\\gasparrinoagostina\\views\\shared\\_aduanalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|solutionrelative:gasparrinoagostina\\views\\shared\\_aduanalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD24F6-F646-4DEB-BC34-B7F5583CAC20}|GasparrinoAgostina.Services\\GasparrinoAgostina.Services.csproj|c:\\users\\agostina\\source\\repos\\gasparrinoagostina\\gasparrinoagostina.services\\iregistrarbarcosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62CD24F6-F646-4DEB-BC34-B7F5583CAC20}|GasparrinoAgostina.Services\\GasparrinoAgostina.Services.csproj|solutionrelative:gasparrinoagostina.services\\iregistrarbarcosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|c:\\users\\agostina\\source\\repos\\gasparrinoagostina\\gasparrinoagostina\\views\\barcos\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|solutionrelative:gasparrinoagostina\\views\\barcos\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|c:\\users\\agostina\\source\\repos\\gasparrinoagostina\\gasparrinoagostina\\controllers\\barcoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|solutionrelative:gasparrinoagostina\\controllers\\barcoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|c:\\users\\agostina\\source\\repos\\gasparrinoagostina\\gasparrinoagostina\\models\\barcomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC42FA95-B97C-44D4-974E-F8ACF08FFFCC}|GasparrinoAgostina\\GasparrinoAgostina.csproj|solutionrelative:gasparrinoagostina\\models\\barcomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_HeaderLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Views\\Shared\\_HeaderLayout.cshtml",
+              "RelativeDocumentMoniker": "GasparrinoAgostina\\Views\\Shared\\_HeaderLayout.cshtml",
+              "ToolTip": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Views\\Shared\\_HeaderLayout.cshtml",
+              "RelativeToolTip": "GasparrinoAgostina\\Views\\Shared\\_HeaderLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:45:23.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AduanaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Views\\Shared\\_AduanaLayout.cshtml",
+              "RelativeDocumentMoniker": "GasparrinoAgostina\\Views\\Shared\\_AduanaLayout.cshtml",
+              "ToolTip": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Views\\Shared\\_AduanaLayout.cshtml",
+              "RelativeToolTip": "GasparrinoAgostina\\Views\\Shared\\_AduanaLayout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:44:49.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRegistrarBarcosService.cs",
+              "DocumentMoniker": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina.Services\\IRegistrarBarcosService.cs",
+              "RelativeDocumentMoniker": "GasparrinoAgostina.Services\\IRegistrarBarcosService.cs",
+              "ToolTip": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina.Services\\IRegistrarBarcosService.cs",
+              "RelativeToolTip": "GasparrinoAgostina.Services\\IRegistrarBarcosService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA+wBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:43:43.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Views\\Barcos\\Listado.cshtml",
+              "RelativeDocumentMoniker": "GasparrinoAgostina\\Views\\Barcos\\Listado.cshtml",
+              "ToolTip": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Views\\Barcos\\Listado.cshtml",
+              "RelativeToolTip": "GasparrinoAgostina\\Views\\Barcos\\Listado.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:43:08.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BarcosController.cs",
+              "DocumentMoniker": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Controllers\\BarcosController.cs",
+              "RelativeDocumentMoniker": "GasparrinoAgostina\\Controllers\\BarcosController.cs",
+              "ToolTip": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Controllers\\BarcosController.cs",
+              "RelativeToolTip": "GasparrinoAgostina\\Controllers\\BarcosController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:42:51.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarcoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Models\\BarcoModel.cs",
+              "RelativeDocumentMoniker": "GasparrinoAgostina\\Models\\BarcoModel.cs",
+              "ToolTip": "C:\\Users\\Agostina\\source\\repos\\GasparrinoAgostina\\GasparrinoAgostina\\Models\\BarcoModel.cs",
+              "RelativeToolTip": "GasparrinoAgostina\\Models\\BarcoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:41:57.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
